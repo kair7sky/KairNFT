@@ -17,4 +17,8 @@ https://github.com/OpenZeppelin/openzeppelincontracts/blob/master/LICENSE & MIT 
 ![image](https://github.com/kair7sky/KairNFT/assets/118976474/d7a529af-aa03-467c-a1ea-61d385e5749e)
 ![image](https://github.com/kair7sky/KairNFT/assets/118976474/1814e1a2-8613-4fb9-95e3-44f5021a4b1a)
 ![image](https://github.com/kair7sky/KairNFT/assets/118976474/c62ea3f5-5317-4e03-8566-9c630efcdf9c)
+![image](https://github.com/kair7sky/KairNFT/assets/118976474/d482a466-4273-4874-b20a-125f854e09ce)
+![image](https://github.com/kair7sky/KairNFT/assets/118976474/5e2498eb-bae6-4e6d-bdc5-a61ccb16dcba)
+![image](https://github.com/kair7sky/KairNFT/assets/118976474/b610596c-7317-4e19-8ff6-5d2b5e36d409)
+
 
